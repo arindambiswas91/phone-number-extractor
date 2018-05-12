@@ -14,5 +14,5 @@ def search_phone(number):
 
 if __name__ == '__main__':
 
-	#number=sys.argv[1]
-	search_phone('4082307112')
+	number=sys.argv[1]
+	search_phone(number)
